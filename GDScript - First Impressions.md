@@ -28,6 +28,7 @@ Having now used GDScript now for two game jams and attempted to use it for side 
 - Only one battery included, the standard library while it does cover most use cases, still lacks support for lots of commonly used items
 - Having to use autoload to fix the issue of singletons
 - No access to external frameworks/libraries
+- Lack of access modifiers (underscores don't count)
 
 ## Summary
 While I do appreciate the ability to rapidly prototype, I cannot see myself using GDScript in the future for any project that is code heavy. Additionally, prototyping in C# is often no slower than in GDScript while offering far greater scalbility leading to even less of a reason to use it. The few advantages that GDScript does have over C# do not justify its usage.
